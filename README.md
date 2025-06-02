@@ -90,15 +90,7 @@ Choose option: 2
 Title: clean code, Author: Robert Martin, ISBN: 12345, Issued: false
 Title: dreamer life, Author: karthik, ISBN: 345678, Issued: false
 
-=== Library Management System ===
-1. Add Book
-2. View All Books
-3. Search Book by Title
-4. Search Book by Author
-5. Issue Book
-6. Return Book
-7. Exit
-Choose option:
+
 
 
 ---
