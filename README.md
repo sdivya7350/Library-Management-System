@@ -39,11 +39,66 @@ It demonstrates core object-oriented programming (OOP) concepts such as classes,
 
 
 ----- Library Menu -----
+=== Library Management System ===
 1. Add Book
-2. View Books
-3. Search Book
-4. Exit
-Enter your choice:
+2. View All Books
+3. Search Book by Title
+4. Search Book by Author
+5. Issue Book
+6. Return Book
+7. Exit
+Choose option: 1
+Enter Title: clean code
+Enter Author: Robert Martin
+Enter ISBN: 12345
+Book added successfully!
+
+=== Library Management System ===
+1. Add Book
+2. View All Books
+3. Search Book by Title
+4. Search Book by Author
+5. Issue Book
+6. Return Book
+7. Exit
+Choose option: 2
+Title: clean code, Author: Robert Martin, ISBN: 12345, Issued: false
+
+=== Library Management System ===
+1. Add Book
+2. View All Books
+3. Search Book by Title
+4. Search Book by Author
+5. Issue Book
+6. Return Book
+7. Exit
+Choose option: 1
+Enter Title: dreamer life
+Enter Author: karthik
+Enter ISBN: 345678
+Book added successfully!
+
+=== Library Management System ===
+1. Add Book
+2. View All Books
+3. Search Book by Title
+4. Search Book by Author
+5. Issue Book
+6. Return Book
+7. Exit
+Choose option: 2
+Title: clean code, Author: Robert Martin, ISBN: 12345, Issued: false
+Title: dreamer life, Author: karthik, ISBN: 345678, Issued: false
+
+=== Library Management System ===
+1. Add Book
+2. View All Books
+3. Search Book by Title
+4. Search Book by Author
+5. Issue Book
+6. Return Book
+7. Exit
+Choose option:
 
 
 ---
